@@ -15,6 +15,6 @@ spec:
          - name: client
            image: omarsheikh1/multi-client
            ports:
-              - conatinerPort: 3000
+             - containerPort: 3000
 
 
